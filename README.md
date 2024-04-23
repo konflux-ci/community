@@ -10,3 +10,7 @@ The project was started at Red Hat, and we're just beginning the process of esta
 
 * Join our [mailing list](https://groups.google.com/g/konflux)
 * Add the [shared calendar](https://calendar.google.com/calendar/u/0?cid=ZWViNjE1YTdjZTNmYWE0MmIyMjUwOGMwZWY4YTQ0NzcxM2FiNDYzNzg1YTRkMTljMGYyYmNjNTkyYjFkNjVlZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+## Meetings
+
+* Join the architecture sync up, every Tuesday at 3:00 PM UTC, 11:00 AM US/Eastern. Details are in the shared calendar.
