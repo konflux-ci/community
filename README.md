@@ -2,6 +2,10 @@
 
 This is where we'll document everything about how to join and contribute to the project.
 
+## Code of Conduct
+
+See the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) for standards and expectations for behavior.
+
 ## Have patience with us
 
 The project was started at Red Hat, and we're just beginning the process of establishing open forums and governance. If you want to see something documented here, please open an issue here or reach out on the mailing list.
