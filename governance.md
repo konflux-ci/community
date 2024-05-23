@@ -82,7 +82,7 @@ process.
 The election process is not yet established. It MUST be done by the next election cycle. It MUST
 define, at least, the following:
 
-1. The action required to fulfill a change in the committee composition. For example, when a new
+1. The actions required to fulfill a change in the committee composition. For example, when a new
    committee member joins, which groups should they be added to, and, conversely, when a member
    leaves, which groups should they be removed from.
 2. The eligibility requirements of voters and nominees.
