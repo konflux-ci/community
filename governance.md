@@ -72,7 +72,9 @@ The governance committee decisions are taken by seeking consensus towards a moti
 members. If the consensus cannot be reached, the motion may be altered or dropped.
 
 Architectural decisions are handled similarly but on the
-[architecture](https://github.com/konflux-ci/architecture) repository,
+[architecture](https://github.com/konflux-ci/architecture) repository. The acceptance, or
+rejection, of architectural decisions abide to the same rules of the governance decision-making
+process.
 
 ## Elections
 
