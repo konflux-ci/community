@@ -75,11 +75,14 @@ Architectural decisions are handled similarly but on the
 
 ## Elections
 
-The election process is not yet established. It MUST be done by the next election cycle.
+The election process is not yet established. It MUST be done by the next election cycle. It MUST
+define, at least, the following:
 
-The election process MUST also define the action required to fulfill a change in the committee
-composition. For example, when a new committee member joins, which groups should they be added to,
-and, conversely, when a member leaves, which groups should they be removed from.
+1. The action required to fulfill a change in the committee composition. For example, when a new
+   committee member joins, which groups should they be added to, and, conversely, when a member
+   leaves, which groups should they be removed from.
+2. The eligibility requirements of voters and nominees.
+3. The voting process.
 
 ## Governing Committee Leave Policy
 
