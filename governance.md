@@ -59,9 +59,10 @@ The committee MUST:
 The committee is responsible for a series of specific artifacts and activities:
 
 - The [Code of Conduct](./code_of_conduct.md) and handling violations
-- Define the processes around [ADRs](https://github.com/konflux-ci/architecture/tree/main/ADR).
-  Should the community fail to reach consensus on whether to accept a proposed ADR or not, the
-  governance committee can help break the impasse.
+- Define the processes around ADRs ([Architectural Design Records](https://adr.github.io/)) in the
+  [architecture](https://github.com/konflux-ci/architecture/tree/main/ADR) repository. Should the
+  community fail to reach consensus on whether to accept a proposed ADR or not, the governance
+  committee can help break the impasse.
 
 ## Governance Decision-Making Process
 
