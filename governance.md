@@ -42,7 +42,7 @@ documents, and so forth.
 
 ## Maximum Representation
 
-It is the desire of the committee to limit the amount of any single employer/company over the
+It is the desire of the committee to limit the amount of influence of any single employer/company over the
 project. However, currently, there is not enough diversity to make this a reality. This section
 should be revised in the future when more than one employer/company are active members of the
 Konflux community.
