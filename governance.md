@@ -66,6 +66,7 @@ The committee is responsible for a series of specific artifacts and activities:
 ## Governance Decision-Making Process
 
 Governance decisions are reviewed and accepted in terms of pull requests to this repository.
+Decisions can be proposed by anyone, not just community or committee members.
 
 The governance committee decisions are taken by seeking consensus towards a motion from all its
 members. If the consensus cannot be reached, the motion may be altered or dropped.
