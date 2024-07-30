@@ -18,3 +18,4 @@ The project was started at Red Hat, and we're just beginning the process of esta
 ## Meetings
 
 * Join the architecture sync up, every Tuesday at 3:00 PM UTC, 11:00 AM US/Eastern. Details are in the shared calendar.
+* Recordings are available at [youtube.com/@konflux-ci](https://www.youtube.com/@konflux-ci).
