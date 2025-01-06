@@ -38,7 +38,7 @@ Using **oc** also works. See also [getting-started/cli/](https://konflux-ci.dev/
 
 These are also interesting
 
-* How to test in Testing Farm from a Konflux integration test scenario: https://github.com/redhat-appstudio/docs.appstudio.io/pull/230
+* How to test in Testing Farm from a Konflux integration test scenario: https://konflux-ci.dev/docs/how-tos/testing/integration/third-parties/testing-farm/
 * OpenShift Console (for another look): https://console-openshift-console.apps.kfluxfedorap01.toli.p1.openshiftapps.com
 * Build-time repo (builds go here as soon as they complete): https://quay.io/organization/konflux-fedora
 * Admin gitops repo (deployment configuration of the instance: https://gitlab.com/fedora/infrastructure/konflux/infra-deployments
