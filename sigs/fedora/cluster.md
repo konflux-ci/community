@@ -1,6 +1,6 @@
 # Fedora Konflux Cluster
 
-This is a list of notes about the Fedora Konflux cluster.
+This is a list of notes about the [Fedora Konflux cluster](https://konflux.apps.kfluxfedorap01.toli.p1.openshiftapps.com/application-pipeline/).
 
 * **Konflux** is a new build, test, and release platform. Learn more at https://konflux-ci.dev/ and https://github.com/konflux-ci/
 * **Fedora** is your Operating System, built with love by people. Learn more at https://fedoraproject.org/
