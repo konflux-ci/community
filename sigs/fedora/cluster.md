@@ -34,11 +34,6 @@ kubectl login --server=https://api.kfluxfedorap01.toli.p1.openshiftapps.com:6443
 
 Using **oc** also works. See also [getting-started/cli/](https://konflux-ci.dev/docs/getting-started/cli/)
 
-### Some examples
-
-* An example fedora base image container building in Ralph's workspace: https://github.com/ralphbean/fedora-base-image
-* An example rpm (libecpg) building in Ralph's workspace: https://github.com/ralphbean/libecpg
-
 ### Also interesting
 
 These are also interesting
