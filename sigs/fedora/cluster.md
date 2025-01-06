@@ -1,6 +1,6 @@
 # Fedora Konflux Cluster
 
-This gist is a list of notes about the Fedora Konflux cluster.
+This is a list of notes about the Fedora Konflux cluster.
 
 * **Konflux** is a new build, test, and release platform. Learn more at https://konflux-ci.dev/ and https://github.com/konflux-ci/
 * **Fedora** is your Operating System, built with love by people. Learn more at https://fedoraproject.org/
