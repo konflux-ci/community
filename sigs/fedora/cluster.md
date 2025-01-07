@@ -7,7 +7,7 @@ This is a list of notes about the [Fedora Konflux cluster](https://konflux.apps.
 
 For [flock 2024](https://fedoraproject.org/flock/2024/), the Konflux community provisioned a [dedicated instance of Konflux for Fedora](https://konflux.apps.kfluxfedorap01.toli.p1.openshiftapps.com/application-pipeline/) for community members to try, experiment, and play with. Big kudos to [@gbenhaim](https://github.com/gbenhaim) and [@manish-jangra](https://github.com/manish-jangra) for making it happen, and [@zlopez](https://github.com/zlopez) for helping with the [FAS oidc setup](https://pagure.io/fedora-infrastructure/issue/12075).
 
-This instance exists to help facilitate a dialog about what the Fedora community wants to do with respect Konflux. Try to use it to build some stuff and see how the different konflux [resources](https://konflux-ci.dev/architecture/architecture/index.html) work. We'll keep it working and if Fedora decides to use it more, we'll seek a method to support it together with the Fedora Infra team.
+This instance exists to help facilitate a dialog about what the Fedora community wants to do with respect to Konflux. Try to use it to build some stuff and see how the different konflux [resources](https://konflux-ci.dev/architecture/architecture/index.html) work. We'll keep it working and if Fedora decides to use it more, we'll seek a method to support it together with the Fedora Infra team.
 
 Where should we have that dialog? I'm not sure of the best place for now let's try [containers-sig](https://discussion.fedoraproject.org/tags/c/project/7/containers-sig). If you know a better place, let me know and we'll get this pointer updated.
 
