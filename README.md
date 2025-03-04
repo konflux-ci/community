@@ -25,3 +25,4 @@ here or reach out on the mailing list.
 ## Special Interest Groups
 
 * [Konflux + Fedora](sigs/fedora.md)
+* [Community Outreach](sigs/community-outreach.md)
