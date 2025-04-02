@@ -2,7 +2,7 @@
 
 ## Purpose:
 
-* Operate and manage the [Fedora Konflux instance](https://gist.github.com/ralphbean/a3644111a549e8cedb0b207f90d42dc9).
+* Operate and manage the [Fedora Konflux instance](fedora/cluster.md).
 * Support people who are trying out experiments there.
 * Develop new ideas and PoCs for how Konflux might be used in Fedora.
 
