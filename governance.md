@@ -30,6 +30,11 @@ members will have been elected.
 *There is no designated facilitator at the moment. The responsibility is distributed across all the*
 *members of the committee.*
 
+### Former Members
+| Full Name| Company | GitHub                                  | From     | Until    |
+| -------- | ------- | --------------------------------------- | -------- | -------- |
+| None yet |
+
 ## Governance Facilitator Role (optional)
 
 The governance facilitator role is a non-voting, non-technical advisory position that helps ensure
@@ -79,14 +84,69 @@ process.
 
 ## Elections
 
-The election process is not yet established. It MUST be done by the next election cycle. It MUST
-define, at least, the following:
+> The elections process may become more strict over time, depending on the evolving
+nature of the community.
 
-1. The actions required to fulfill a change in the committee composition. For example, when a new
-   committee member joins, which groups should they be added to, and, conversely, when a member
-   leaves, which groups should they be removed from.
-2. The eligibility requirements of voters and nominees.
-3. The voting process.
+### Voter Eligibility
+
+The elections are open for anyone to vote. The community asks that voters:
+
+1. Vote only if they are active contributors to the community.
+2. Vote only once.
+
+### Candidate Eligibility
+
+Candidates must be active contributors to the community, and must be nominated by an
+eligible voter.
+
+### Nominations Process
+
+Nominations should be sent to konflux@googlegroups.com. The email should contain: email
+address, github handle, company affiliation, and Konflux-CI project(s) they contribute
+to, for both the nominee and the nominating contributors.
+
+One CAN nominate themselves.
+
+Any nominee who accepts the nomination will be on the ballot.
+
+### Election Process
+
+Elections will be held using time-limited
+[Condorcet](https://en.wikipedia.org/wiki/Condorcet_method) ranking on
+[CIVS](https://civs.cs.cornell.edu/). The top vote getters will be elected to the open
+seats.
+
+In case the number of seats is greater or equal to the number of candidates,
+voters will also be able to vote against each candidate being elected, and a candidate
+will only be elected if more votes are casted for the candidate than against.
+
+Details about the schedule and logistics of the election will be announced in a timely
+manner by the election officers to eligible candidates and voters via the
+konflux@googlegroups.com mailing list.
+
+### Election Officers
+
+For every election, the governance committee will choose election officers as they deem
+appropriate and sufficient (e.g. headcount and identity).
+
+### Changes to Governing Committee
+
+When someone joins the governing committee:
+
+- They should be added to
+  [the list of current governing committee members](#current-members).
+- They will be added to
+  [konflux-governance-committee](https://github.com/orgs/konflux-ci/teams/konflux-governance-committee)
+  GitHub team.
+
+When someone leaves the governing committee:
+
+- They should be moved from
+  [the list of current governing committee members](#current-members) to
+  [the list of former members](#former-members).
+- They will be removed from
+  [konflux-governance-committee](https://github.com/orgs/konflux-ci/teams/konflux-governance-committee)
+  GitHub team.
 
 ## Governing Committee Leave Policy
 
