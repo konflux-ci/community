@@ -30,6 +30,11 @@ members will have been elected.
 *There is no designated facilitator at the moment. The responsibility is distributed across all the*
 *members of the committee.*
 
+### Former Members
+| Full Name| Company | GitHub                                  | From     | Until    |
+| -------- | ------- | --------------------------------------- | -------- | -------- |
+| None yet |
+
 ## Governance Facilitator Role (optional)
 
 The governance facilitator role is a non-voting, non-technical advisory position that helps ensure
@@ -79,14 +84,87 @@ process.
 
 ## Elections
 
-The election process is not yet established. It MUST be done by the next election cycle. It MUST
-define, at least, the following:
+> The elections process may become more strict over time, depending on the evolving
+nature of the community.
 
-1. The actions required to fulfill a change in the committee composition. For example, when a new
-   committee member joins, which groups should they be added to, and, conversely, when a member
-   leaves, which groups should they be removed from.
-2. The eligibility requirements of voters and nominees.
-3. The voting process.
+### Voter Eligibility
+
+The elections are open for anyone to vote. The community asks that voters:
+
+1. Vote only if they are active participants in the community.
+2. Vote only once.
+
+> *Participants* in this context refer to ones that contribute to the community either
+by taking part in community discussions or by writing and reviewing code changes.
+
+### Candidate Eligibility
+
+Candidates must be active participants in the community, and must be nominated by an
+eligible voter.
+
+### Nominations Process
+
+A GitHub issue will be created, calling for nominations through the issue's comments
+section. A link to the issue will be shared (at least) on konflux@googlegroups.com.
+
+Nominations should contain: email address, GitHub handle, company affiliation, and
+Konflux-CI project(s) they participate in, for both the nominee and the nominating
+participants.
+
+One CAN nominate themselves.
+
+Any nominee who accepts the nomination will be on the ballot.
+
+### Election Process
+
+Elections will be held as a poll in Google Forms. voters will select as many candidates
+as there are open seats for. E.g. if the elections are held for replacing 2 open seats,
+then voters will have to select 2 candidates in their vote (a name can only be picked
+once per each voter).
+
+In case the number of seats is greater or equal to the number of candidates,
+voters will also be able to vote against each candidate being elected, and a candidate
+will only be elected if more votes are casted for the candidate than against.
+
+Details about the schedule and logistics of the election will be announced in a timely
+manner by the election officers to eligible candidates and voters via the
+konflux@googlegroups.com mailing list.
+
+Access to the poll results will be given to the election officers and to a member of
+the committee, if possible, not one nominated to be reelected.
+
+### Election Officers
+
+For every election, the governance committee will choose election officers as they deem
+appropriate and sufficient (e.g. headcount and identity), with the exception that
+an election officer should not be running for the current elections.
+
+The election officers will:
+
+- Share elections-related announcements.
+- Create the election poll and process its results.
+- Have the final say regarding issues related to the elections they were appointed for
+  and are unaccounted for in this document.
+- Enhance this document to account for any such issues found during the same elections.
+
+### Changes to Governing Committee
+
+When someone joins the governing committee:
+
+- They should be added to
+  [the list of current governing committee members](#current-members).
+- They will be added to
+  [konflux-governance-committee](https://github.com/orgs/konflux-ci/teams/konflux-governance-committee)
+  GitHub team.
+
+When someone leaves the governing committee:
+
+- They should be moved from
+  [the list of current governing committee members](#current-members) to
+  [the list of former members](#former-members).
+- They will be removed from
+  [konflux-governance-committee](https://github.com/orgs/konflux-ci/teams/konflux-governance-committee)
+  GitHub team.
 
 ## Governing Committee Leave Policy
 
