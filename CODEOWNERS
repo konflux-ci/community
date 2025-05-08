@@ -3,3 +3,4 @@
 * @konflux-ci/konflux-governance-committee
 
 sigs/fedora* @konflux-ci/fedora-sig-admins
+sigs/community-outreach* @adambkaplan @eskultety @ralphbean
