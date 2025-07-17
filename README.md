@@ -19,7 +19,7 @@ here or reach out on the mailing list.
 
 ## Meetings
 
-* Join the architecture sync up, every Tuesday at 3:00 PM UTC, 11:00 AM US/Eastern. Details are in the shared calendar.
+* Join the community sync up, every Tuesday at 3:00 PM UTC, 11:00 AM US/Eastern. Details are in the shared calendar.
 * Recordings are available at [youtube.com/@konflux-ci](https://www.youtube.com/@konflux-ci).
 
 ## Special Interest Groups
