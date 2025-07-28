@@ -14,7 +14,7 @@ evaluators, and adopters. This SIG aims to accomplish this mission as follows:
 
 * Email the [Konflux mailing list](https://groups.google.com/g/konflux), optionally adding
   `[sig-community-outreach]` to the subject header.
-* We will host a recurring open SIG meeting at a time TBD.
+* Topics for the SIG should be discussed on the primary [community call](../README.md).
 
 ## Youtube
 
