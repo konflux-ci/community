@@ -15,7 +15,7 @@ The best ADRs explain _why_ and have detailed *consequences* sections, illustrat
 
 ## When to not file an ADR?
 
-* For small changes introducing a new parameters or option.
+* For small changes introducing a new parameter or option.
 * For cleanup projects.
 * Extending on patterns that are already recorded as ADRs (unless the extension somehow substantially changes the nature of the pattern).
 * When you want to create a new Konflux "Add-On".
