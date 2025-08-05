@@ -41,6 +41,19 @@ When an ADR is **rejected**, it can mean one of multiple things:
 
 The KGC must comment on why they're closing the ADR when rejecting.
 
+## Lifecycle
+
+ADRs can be in any one of the following states.
+
+* **Proposed** - the ADR is unmerged. It is proposed in the queue for consideration and exists in a PR.
+* **Withdrawn** - the ADR is unmerged. The author withdrew it from consideration and closed their own PR.
+* **Deferred** - the ADR is unmerged. It was rejected by the KGC and does not appear in `main`.
+
+* **Accepted** - the ADR is merged. It is accepted by KGC, but may need more detail before being implementable.
+* **Implementable** - the ADR is merged. It has sufficient detail that someone can do something about it.
+* **Implemented** - the ADR is merged. It is implemented. The ADR reflects facts about the system.
+* **Replaced** - the ADR is merged. It was previously accepted, but has been outmoded by newer ADRs. It stays in the repo.
+
 ## ADR Template
 
 ```markdown
@@ -50,7 +63,8 @@ Date: 1999-01-01
 
 ## Status
 
-Accepted
+[//]: # (One of: Proposed, Withdrawn, Deferred, Accepted, Implementable, Implemented, Replaced)
+Proposed
 
 ## Context
 
