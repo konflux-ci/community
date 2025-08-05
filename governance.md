@@ -23,9 +23,9 @@ members will have been elected.
 
 | Full Name       | Company | GitHub                                      | From     | Until    |
 | --------------- | ------- | ------------------------------------------- | -------- | -------- |
-| Ralph Bean      | Red Hat | [ralphbean](https://github.com/ralphbean)   | May 2024 | May 2027 |
 | Andrew McNamara | Red Hat | [arewm](https://github.com/arewm)           | May 2024 | May 2026 |
 | Brian Cook      | Red Hat | [brianwcook](https://github.com/brianwcook) | May 2024 | May 2026 |
+| Ralph Bean      | Red Hat | [ralphbean](https://github.com/ralphbean)   | May 2024 | May 2027 |
 
 *There is no designated facilitator at the moment. The responsibility is distributed across all the*
 *members of the committee.*
