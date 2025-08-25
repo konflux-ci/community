@@ -29,6 +29,7 @@ The ADR process is managed by the [Konflux Governance Committee (KGC)](https://g
 * When new ADRs are filed, the author opens the request for comments period by announcing it on a community call.
 * KGC is responsible for marking the PR with a label indicating its state.
 * The request for comments period is 2 weeks.
+* The author is responsible for responding to all threads.
 * At the end of two weeks, KGC will deliberate on the feature.
 * Within two weeks, the KGC will either approve it, reject it, or extend the comment period for another 2 weeks and announce it on the community call.
 
