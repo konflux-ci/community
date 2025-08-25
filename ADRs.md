@@ -32,6 +32,7 @@ The ADR process is managed by the [Konflux Governance Committee (KGC)](https://g
 * The author is responsible for responding to all threads.
 * At the end of two weeks, KGC will deliberate on the feature.
 * Within two weeks, the KGC will either approve it, reject it, or extend the comment period for another 2 weeks and announce it on the community call.
+* In all cases, the KGC is responsible for making the decision. This includes situations where some community comments are against the idea while others support it.
 
 When an ADR is **accepted**, it means that it's the intended direction of the project.
 
