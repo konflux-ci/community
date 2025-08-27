@@ -43,6 +43,8 @@ When an ADR is **rejected**, it can mean one of multiple things:
 
 The KGC must comment on why they're closing the ADR when rejecting.
 
+ADRs receive a number when they're accepted. Rejected ADRs do not consume a number in the sequence of accepted ADRs.
+
 ## Lifecycle
 
 ADRs can be in any one of the following states.
