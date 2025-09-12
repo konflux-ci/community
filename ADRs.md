@@ -18,7 +18,7 @@ The best ADRs explain _why_ and have detailed *consequences* sections, illustrat
 * For small changes introducing a new parameter or option.
 * For cleanup projects.
 * Extending on patterns that are already recorded as ADRs (unless the extension somehow substantially changes the nature of the pattern).
-* When you want to create a new Konflux "Add-On".
+* When you want to create a new Konflux "Add-On" (unless you want to encourage optional integrations with other Konflux subsystems).
 * You want feedback on something you're doing or trying in your own downstream Konflux deployment.
 
 ## Process
