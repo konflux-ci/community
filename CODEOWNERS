@@ -1,6 +1,6 @@
 # These users have approval access to all other resources (wildcard)
 # 	Helpers wanted!
-* @konflux-ci/konflux-governance-committee
+* @konflux-ci/kgc
 
 sigs/fedora* @konflux-ci/fedora-sig-admins
 sigs/community-outreach* @adambkaplan @eskultety @ralphbean
