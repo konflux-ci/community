@@ -26,3 +26,4 @@ here or reach out on the mailing list.
 
 * [Konflux + Fedora](sigs/fedora.md)
 * [Community Outreach](sigs/community-outreach.md)
+* [Artificial Intelligence](sigs/ai.md)
