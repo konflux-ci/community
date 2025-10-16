@@ -14,6 +14,7 @@ here or reach out on the mailing list.
 
 ## Get involved
 
+* Join our [slack workspace](https://join.slack.com/t/konflux-ci/shared_invite/zt-3g36o0a4x-Dmsy25XEGuBV79S7kd04CA)
 * Join our [mailing list](https://groups.google.com/g/konflux)
 * Add the [shared calendar](https://calendar.google.com/calendar/u/0?cid=ZWViNjE1YTdjZTNmYWE0MmIyMjUwOGMwZWY4YTQ0NzcxM2FiNDYzNzg1YTRkMTljMGYyYmNjNTkyYjFkNjVlZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
