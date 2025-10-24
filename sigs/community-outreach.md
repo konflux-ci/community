@@ -22,3 +22,5 @@ The outreach SIG helps maintain the [@konflux-ci youtube
 channel](https://youtube.com/@konflux-ci). We give rights to the leaders of
 other SIGs to upload recording of their meetings there, and we may expand to
 publish other content there in the future.
+
+Use [this link](https://studio.youtube.com/channel/UCGoycrwC4Mf8hDWMbXylFYw/videos/upload) to upload content.
