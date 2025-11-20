@@ -7,8 +7,12 @@ and technical matters.
 ## Konflux Governance Committee
 
 The Konflux governance committee consists of three elected individuals and one optional facilitator.
-The three seats are held for two year terms, staggered by one year: every year either one or two
-of the seats are up for election.
+The three seats are held for two year terms. Regular elections are held in May, and each seat needs
+to be reelected on the elections held after their 2 years of tenure.
+
+If a member was elected out-of-term (due to a member leaving mid-term), they will need to be
+reelected on the regular elections held after their 2 year tenure, which means their term will be
+longer than 2 years.
 
 ### Founder Exception
 
@@ -23,17 +27,17 @@ members will have been elected.
 
 | Full Name       | Company | GitHub                                      | From     | Until    |
 | --------------- | ------- | ------------------------------------------- | -------- | -------- |
+| Adam Ormandy    | Red Hat | [cit1zen](https://github.com/cit1zen)       | Nov 2025 | May 2028 |
 | Andrew McNamara | Red Hat | [arewm](https://github.com/arewm)           | May 2024 | May 2026 |
-| Brian Cook      | Red Hat | [brianwcook](https://github.com/brianwcook) | May 2024 | May 2026 |
 | Ralph Bean      | Red Hat | [ralphbean](https://github.com/ralphbean)   | May 2024 | May 2027 |
 
 *There is no designated facilitator at the moment. The responsibility is distributed across all the*
 *members of the committee.*
 
 ### Former Members
-| Full Name| Company | GitHub                                  | From     | Until    |
-| -------- | ------- | --------------------------------------- | -------- | -------- |
-| None yet |
+| Full Name  | Company | GitHub                                      | From     | Until    |
+| ---------- | ------- | ------------------------------------------- | -------- | -------- |
+| Brian Cook | Red Hat | [brianwcook](https://github.com/brianwcook) | May 2024 | Nov 2025 |
 
 ## Governance Facilitator Role (optional)
 
@@ -57,7 +61,6 @@ Konflux community.
 The committee MUST:
 
 - Balance technical, architectural, and governance expertise.
-- Hold staggered terms, sufficient to ensure an orderly transition of power via elections.
 - Provide designated alternates in cases where quorum is required but not attainable with the
   current set of members.
 
