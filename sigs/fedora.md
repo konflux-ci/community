@@ -10,7 +10,7 @@
 
 * After [joining the konflux-ci slack
   workspace](https://join.slack.com/t/konflux-ci/shared_invite/zt-3g36o0a4x-Dmsy25XEGuBV79S7kd04CA),
-  join the [#fedora-sig](https://konflux-ci.slack.com/archives/C09RHNCDCHY) channel.
+  join the [#fedora](https://konflux-ci.slack.com/archives/C09RHNCDCHY) channel.
 * We show up to the general Konflux Community call at 11:00 AM US/Eastern on Tuesdays at [this link](https://meet.google.com/dia-rwqu-kgw). Details are on the [shared calendar](https://calendar.google.com/calendar/u/0?cid=ZWViNjE1YTdjZTNmYWE0MmIyMjUwOGMwZWY4YTQ0NzcxM2FiNDYzNzg1YTRkMTljMGYyYmNjNTkyYjFkNjVlZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) ([notes](https://docs.google.com/document/d/18Rt4VQh3MH7_O_FdkpmRp8-PacOyGPq4WCxT4Jm-ZD0/edit), [recordings](https://www.youtube.com/@konflux-ci)). Also, add yourself to the [@konflux googlegroup](https://groups.google.com/g/konflux).
 * Use [gitlab.com/fedora/infrastructure/konflux/](https://gitlab.com/groups/fedora/infrastructure/konflux/-/issues) for issue tracking and requests.
 * Use [Konflux Fedora Chat](https://chat.fedoraproject.org/#/room/#konflux:fedora.im) for getting support.
