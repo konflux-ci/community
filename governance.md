@@ -28,7 +28,7 @@ members will have been elected.
 | Full Name       | Company | GitHub                                      | From     | Until    |
 | --------------- | ------- | ------------------------------------------- | -------- | -------- |
 | Adam Ormandy    | Red Hat | [cit1zen](https://github.com/cit1zen)       | Nov 2025 | May 2028 |
-| Andrew McNamara | Red Hat | [arewm](https://github.com/arewm)           | May 2024 | May 2026 |
+| Andrew McNamara | Red Hat | [arewm](https://github.com/arewm)           | May 2024 | May 2028 |
 | Ralph Bean      | Red Hat | [ralphbean](https://github.com/ralphbean)   | May 2024 | May 2027 |
 
 *There is no designated facilitator at the moment. The responsibility is distributed across all the*
