@@ -14,7 +14,7 @@ Topics include:
 ## Communication
 
 * After [joining the konflux-ci slack
-  workspace](https://join.slack.com/t/konflux-ci/shared_invite/zt-3g36o0a4x-Dmsy25XEGuBV79S7kd04CA),
+  workspace](https://join.slack.com/t/konflux-ci/shared_invite/zt-4fpexk1kx-9m7Hybnu78OWXlwaCEPljg),
   join the [#secure-ai-sig](https://konflux-ci.slack.com/archives/C09LB9WQPEF) channel.
 * Email the [Konflux mailing list](https://groups.google.com/g/konflux),
   optionally adding `[secure-ai-sig]` to the subject header.
