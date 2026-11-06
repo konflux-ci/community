@@ -26,7 +26,7 @@ The best ADRs explain _why_ and have detailed *consequences* sections, illustrat
 The ADR process is managed by the [Konflux Governance Committee (KGC)](https://github.com/konflux-ci/community/blob/main/governance.md).
 
 * Anyone can submit an ADR idea.
-* When new ADRs are filed, the author opens the request for comments period by announcing it on a community call.
+* When new ADRs are filed, the author opens the request for comments period by announcing it on either the [community call](https://github.com/konflux-ci/community/#meetings) or the [public mailing list](https://groups.google.com/g/konflux).
 * KGC is responsible for marking the PR with a milestone indicating the end of the request for comments period.
 * The request for comments period is 2 weeks.
 * The author is responsible for responding to all threads.
